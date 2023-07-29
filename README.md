@@ -13,6 +13,7 @@ In this project, we leverage the power of Jetpack Compose, the modern UI toolkit
 - Adding custom markers on the map for personalized touchpoints.
 - Changing map types to display satellite, terrain, or standard views.
 - Drawing polylines and polygons to create routes and areas on the map.
+- Calculating disctance and surface area between markers.
 
 ## Resources
 
