@@ -20,9 +20,13 @@ To learn more about the Google Maps Android SDK and its integration with Jetpack
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot_1.png)
-![Screenshot 2](screenshots/screenshot_2.png)
-![Screenshot 3](screenshots/screenshot_3.png)
+<p float="left">
+  <img src="/screenshots/1.png" width="180" />
+  <img src="/screenshots/2.png" width="180" /> 
+  <img src="/screenshots/3.png" width="180" />
+  <img src="/screenshots/4.png" width="180" />
+  <img src="/screenshots/5.png" width="180" />
+</p>
 
 ## Getting Started
 
